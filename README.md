@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GP8-Gokul
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Projects
+# Hi, I'm Gokul
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GP8-Gokul)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GP8-Gokul/GP8-Gokul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
